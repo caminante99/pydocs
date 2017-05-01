@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: btce-api
+Version: 0.3
+Summary: A library for the public and private APIs of the digital currency trading site BTC-e.com.
+Home-page: https://github.com/CodeReclaimers/btce-api
+Author: CodeReclaimers, LLC
+Author-email: alan@codereclaimers.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers

@@ -1,0 +1,9 @@
+Identifica todas las líneas de un fichero que empiecen y acaben con la misma palabra
+
+argos tendre ser bola palabras al azar argos
+
+expulsar seeora corriente esta no acaba en la misma
+
+esta si acabara en la misma la en acabara si esta
+
+ya

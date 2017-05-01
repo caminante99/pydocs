@@ -1,0 +1,29 @@
+Hay dos cosas que se deben saber antes de anotar un paquete en el archivo requirements.txt. En primer lugar se debe saber su nombre exacto. Para esto es posible buscarlo en el repositorio PyPi ejecutando el siguiente comando en una terminal:
+
+$ pip search termino_de_busqueda
+
+
+Hasta este punto se conoce el nombre exacto del paquete. Sin embargo, es aconsejable saber también la versión. Al anotar la versión en el archivo requirements.txt, pip instalará esa versión específica a pesar que existan versiones mas recientes. Esto, sin lugar a dudas, evitará que se presenten problemas en el proyecto si el paquete es actualizado a una nueva versión.
+
+Si no se anota un número de versión junto al nombre del paquete en el archivo requirements.txt, pip instalará por defecto la última versión disponible en el repositorio PyPi de ese paquete.
+
+Ahora si, con estos dos datos se pueden anotar los paquetes Python en el archivo requirements.txt de la siguiente forma:
+
+# Para instalar una versión específica
+nombre_del_paquete==version
+
+# Para instalar una versión igual o superior
+nombre_del_paquete>=version
+Por ejemplo, si se quiere instalar la versión 1.7.1 de Pygame, se anota lo siguiente:
+
+Pygame==1.7.1
+Si no se desea instalar una versión menor que la 1.7.1, se anota lo siguiente:
+
+Pygame>=1.7.1
+
+
+Cómo instalar los paquetes Python anotados en el archivo requirements.txt
+
+Simplemente se ejecuta el siguiente comando en la terminal:
+
+$ pip install -r requirements.txt

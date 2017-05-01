@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Python 2to3: Translate Python 2 to 3",
+        "command": "py2to3"
+    }
+]

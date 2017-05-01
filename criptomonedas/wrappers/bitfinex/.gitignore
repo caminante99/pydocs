@@ -1,0 +1,8 @@
+.idea/
+*.pyc
+tmp/*
+cover/*
+build
+__pycache__
+bitfinex.egg-info
+dist
