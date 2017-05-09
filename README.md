@@ -1,17 +1,15 @@
-# -*- coding: cp1252 -*-
-
 <h1>pydocs</h1>
 
-**pydocs** es mi creciente recopilaciÛn de informaciÛn para diversos modulos de python.
+**pydocs** es mi creciente recopilaci√≥n de informaci√≥n para diversos modulos de python.
 
-Est·n la mayorÌa con comentarios en espaÒol y tambiÈn hay bibliotecas y algunos programas de utilidades para descargar. Est· abierto a que cualquiera contribuya con m·s datos.
+Est√°n la mayor√≠a con comentarios en espa√±ol y tambi√©n hay bibliotecas y algunos programas de utilidades para descargar. Est√° abierto a que cualquiera contribuya con m√°s datos.
 
 
 ## License:
 
 ```
   Apache v2.0 License
-  Copyright 2017 ¡lvaro MondÈjar
+  Copyright 2017 √Ålvaro Mond√©jar
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
