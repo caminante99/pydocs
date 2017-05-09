@@ -2,7 +2,7 @@
 
 **pydocs** es mi creciente recopilación de información para diversos modulos de python.
 
-Están la mayoría con comentarios en español y también hay bibliotecas y algunos programas de utilidades para descargar. Está abierto a que cualquiera contribuya con más datos.
+Están la mayoría con comentarios en español. También hay bibliotecas y algunos programas de utilidades para descargar. Está abierto a que cualquiera contribuya con más datos.
 
 
 ## License:
